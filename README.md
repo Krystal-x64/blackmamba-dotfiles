@@ -80,29 +80,29 @@ And then I implemented with lxappearance.
 
 #BSPWM
 
-**win + ctrl + r** = restart
+**<kbd>win</kbd> + <kbd>ctrl</kbd> + <kbd>r</kbd>** = restart
 
-**win + enter** = kitty term
+**<kbd>win</kbd> + <kbd>enter</kbd>** = kitty term
 
-**win + shift + [1,9]** = move the selected program to the selected environment [1,9].
+**<kbd>win</kbd> + <kbd>shift</kbd> + [<kbd>1</kbd>...<kbd>9</kbd>]** = move the selected program to the selected environment [1,9].
 
-**win + w** = close window
+**<kbd>win</kbd> + <kbd>w</kbd>** = close window
 
-**win + s** = floating windows  
+**<kbd>win</kbd> + <kbd>s</kbd>** = floating windows  
 
-**win + right click** = resizes when in floating windows
+**<kbd>win</kbd> + <kbd>right click</kbd>** = resizes when in floating windows
 
-**win + left click** = move the floating windows
+**<kbd>win</kbd> + <kbd>left click</kbd>** = move the floating windows
 
-**win + d** = Rofi program browser
+**<kbd>win</kbd> + <kbd>d</kbd>** = Rofi program browser
 
-**win + ctrl + [1,9]** = presets size
+**<kbd>win</kbd> + <kbd>ctrl</kbd> + [<kbd>1</kbd>...<kbd>9</kbd>]** = presets size
 
-**win + alt + ctrl + [→]** = preset the area
+**<kbd>win</kbd> + <kbd>alt</kbd> + <kbd>ctrl</kbd> + <kbd>→</kbd>** = preset the area
 
 #KITTY 
 
-**Ctrl + Shift + T** = New tab
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>** = New tab
 
 -----
 
