@@ -81,6 +81,9 @@ And then I implemented with lxappearance.
 **impacket :**
 `pip install impacket==0.10.0`
 
+**evil-winrm :**
+https://github.com/Hackplayers/evil-winrm
+
 -----
 
 
