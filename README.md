@@ -70,7 +70,16 @@ In the case of VSCODE and Thunar aesthetic configuration, I used Dracula's theme
 [https://draculatheme.com/](https://draculatheme.com/)
 And then I implemented with lxappearance.
 
+###### also for penetration testing utilities :
 
+**crackmapexec :**
+
+`sudo python3 -m pip install pipx`
+
+`sudo pipx install crackmapexec`
+
+**impacket :**
+`pip install impacket==0.10.0`
 
 -----
 
