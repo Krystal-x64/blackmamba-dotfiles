@@ -30,9 +30,9 @@ The functionality of this environment is aimed at pentesting, and has been teste
 While I'm not going to give a detailed tutorial on how to install everything, I'm going to give a general overview of what you should do and common mistakes that are made when copying other people's dotfiles.
 
 Once Parrot is installed you should install bspwm and sxhkd
-[https://github.com/baskerville/bspwm.git](https://github.com/baskerville/bspwm.git)
+[/baskerville/bspwm.git](https://github.com/baskerville/bspwm.git)
 
-[https://github.com/baskerville/sxhkd.git](https://www.notion.so/Linux-Config-bad6358cdcf54523a52337423817d227)
+[/baskerville/sxhkd.git](https://github.com/baskerville/sxhkd.git)
 
 Next would be a series of packages that I installed before I started copying dotfiles:
 
@@ -42,15 +42,15 @@ build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev l
 I then proceeded to install the polybar, lsd, bat powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting from their github repositories :
 [https://github.com/polybar/polybar](https://github.com/polybar/polybar)
 
-[https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+[/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 
-[https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+[/zsh-syntax-highlighting/](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
-[https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+[/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-[https://github.com/Peltoche/lsd](https://www.notion.so/Linux-Config-bad6358cdcf54523a52337423817d227)
+[/Peltoche/lsd](https://github.com/Peltoche/lsd)
 
-[https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
+[/sharkdp/bat](https://github.com/sharkdp/bat)
 
 I also installed Vscode from their official website.
 
